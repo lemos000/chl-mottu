@@ -51,7 +51,7 @@ Este projeto é um aplicativo mobile desenvolvido em React Native usando Expo, c
 1. **Clone o repositório:**
 
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/lemos000/chl-mottu.git
    cd chl-mottu
    ```
 
