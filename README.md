@@ -169,8 +169,8 @@ Componente customizado para seleção do modelo da moto.
 
 ---
 
-## Dúvidas
+## Acadêmico
 
-Abra uma issue ou entre em contato com o responsável pelo repositório.
+Este é um projeto acadêmico feito em colaboração com a FIAP e Mottu, como parte do curso de Análise e Desenvolvimento de Sistemas. 
 
 ---
